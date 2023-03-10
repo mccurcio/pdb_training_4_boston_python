@@ -1,4 +1,4 @@
-# pdb_training_4_boston_python
+# Pdb Presentation For Boston Python Users Group
 
 This presentation was given on March 8, 2023 for the Boston Python Users group, []()
 
@@ -8,7 +8,7 @@ This repo has slides, my cheatsheet, and several buggie programs with questions 
 
 - [Google slides](https://docs.google.com/presentation/d/e/2PACX-1vQzj95YhqPzVpRJLvJAwAavxhKVJA3-jQWG047mzuYZV2nCHDEnquQdUXeWlDGJfWRdTNFPdWZCXdMM/embed?start=false&loop=false&delayms=3000)
 
-- [PDB cheat-sheet]()
+- [PDB cheat-sheet](https://github.com/mccurcio/pdb_training_4_boston_python/blob/main/PDB_cheatsheet_v.1_mcc.pdf)
 
 Also, try out Emily's [Debuggin demo files](https://github.com/awordforthat/pdb-debugging)!
 
